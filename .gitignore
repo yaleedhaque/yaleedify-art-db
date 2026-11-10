@@ -1,0 +1,4 @@
+.cache/
+*.pnm
+*.svg.tmp
+__pycache__/
